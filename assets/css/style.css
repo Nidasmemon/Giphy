@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100%;
+    font-family: 'Acme', sans-serif;
+    font-size: 20px;
+}
+
+label, input, form {
+    margin: 10px;
+}
+
+button {
+    margin: 10px;
+    background-color: rgb(146, 199, 146);
+}
+
+#user-input {
+    float: right;
+}
