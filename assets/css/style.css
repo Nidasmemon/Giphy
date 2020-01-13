@@ -1,11 +1,10 @@
 body {
-    background-image: url("../images/background.jpg");
-    background-size: 100%;
+    background-color: rgb(184, 231, 245);
     font-family: 'Acme', sans-serif;
     font-size: 20px;
 }
 
-label, input, form {
+h5, input, form {
     margin: 10px;
 }
 
@@ -14,6 +13,14 @@ button {
     background-color: rgb(146, 199, 146);
 }
 
-#user-input {
-    float: right;
+#animals-form {
+    text-align: right;
+}
+
+label {
+    margin-right: 10px;
+}
+
+#add-animal {
+    margin-right: 80px;
 }
