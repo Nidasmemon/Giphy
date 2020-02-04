@@ -5,3 +5,6 @@ This is a web application that is integrated with the Giphy API. Upon clicking t
 You may also type in any animal of your choice in the provided text box to create a new button and then view the gifs returned from the Giphy API.
 
 Upon viewing the gifs you may click on them to start and stop the animation. 
+
+
+https://nidasmemon.github.io/Giphy/
